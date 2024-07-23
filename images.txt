@@ -1,1 +1,9 @@
+mysql:5.7.44
+redis:6.2.7
+rabbitmq:3.9.11-management
+elasticsearch:7.14.0
+kibana:7.14.0
+logstash:7.14.0
+mobz/elasticsearch-head:5
+minio/minio:RELEASE.2022-01-04T07-41-07Z
 minio/minio:RELEASE.2024-07-16T23-46-41Z
