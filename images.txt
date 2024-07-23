@@ -6,3 +6,4 @@ kibana:7.14.0
 logstash:7.14.0
 mobz/elasticsearch-head:5
 minio/minio:RELEASE.2022-01-04T07-41-07Z
+
