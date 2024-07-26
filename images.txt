@@ -1,1 +1,1 @@
-joshm1/nginx
+openjdk:8-jdk-alpine
