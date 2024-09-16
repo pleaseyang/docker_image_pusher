@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+ghcr.io/bell-sw/liberica-runtime-container:jdk-all-musl
