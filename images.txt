@@ -1,1 +1,1 @@
-ghcr.io/bell-sw/liberica-runtime-container:jdk-all-musl
+frooodle/s-pdf:latest
