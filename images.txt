@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+mysql:8.0.35
