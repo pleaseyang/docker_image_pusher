@@ -1,1 +1,1 @@
-shinsenter/laravel:php7.4-alpine
+shinsenter/laravel:php7.4
