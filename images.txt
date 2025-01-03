@@ -1,2 +1,1 @@
-shinsenter/laravel:php8.1
-shinsenter/laravel:php8.1-alpine
+wechaty/wechaty
