@@ -1,1 +1,1 @@
-node:18
+maxiaolin3366/sqladvisor:latest
