@@ -1,1 +1,1 @@
-maxiaolin3366/sqladvisor:latest
+bellsoft/liberica-runtime-container:jdk-all-21-musl
