@@ -1,9 +1,3 @@
-2233466866/lnmp
-2233466866/lnmp-win
-2233466866/lnmp-mac
 2233466866/lnmp:newest
 2233466866/lnmp:newest-win
 2233466866/lnmp:newest-mac
-2233466866/lnmp:mini
-2233466866/lnmp:mini-win
-2233466866/lnmp:mini-mac
