@@ -1,3 +1,2 @@
-2233466866/lnmp:newest
-2233466866/lnmp:newest-win
-2233466866/lnmp:newest-mac
+node:20
+node:20.18.0
