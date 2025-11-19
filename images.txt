@@ -1,2 +1,1 @@
-node:20
-node:20.18.0
+2233466866/lnmp:mini-win
