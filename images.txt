@@ -1,1 +1,1 @@
-2233466866/lnmp:mini-win
+bellsoft/liberica-openjdk-rocky:21.0.11-cds
