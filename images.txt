@@ -1,1 +1,1 @@
-mysql:8.4.9
+shinsenter/laravel:php7.4-nginx
