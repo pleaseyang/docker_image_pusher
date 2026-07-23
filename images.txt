@@ -1,1 +1,1 @@
-shinsenter/laravel:php8.5-nginx
+shinsenter/laravel:php8.4-nginx
