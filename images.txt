@@ -1,1 +1,3 @@
-redis:7.4.9-alpine
+grafana/loki:3.7.4
+grafana/grafana:13.1.1
+grafana/alloy:v1.18.0
