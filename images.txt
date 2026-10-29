@@ -1,1 +1,1 @@
-node:20.18.0-bookworm
+node:22.18.0-alpine
