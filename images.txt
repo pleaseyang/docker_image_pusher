@@ -1,1 +1,1 @@
-node:22.18.0-alpine
+valkey/valkey:9.1.3
